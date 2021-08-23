@@ -1,7 +1,5 @@
 //Calculation of Simple Interest with 3 different sets using for loop
 
-import java.io.*;
-
 public class loop3 {
     public static void main(String[] args) throws Exception {
         int count;
